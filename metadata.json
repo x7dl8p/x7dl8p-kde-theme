@@ -1,0 +1,19 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "ahmad.khan200499@gmail.com",
+        "Name": "x7dl8p"
+      }
+    ],
+    "Description": "Modern minimalist soft theme",
+    "Id": "x7dl8p",
+    "License": "GPL-2.0+",
+    "Name": "x7dl8p",
+    "Website": "https://mohammad.is-a.dev/"
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+  "X-Plasma-APIVersion": "2",
+  "X-Plasma-MainScript": "default"
+}
